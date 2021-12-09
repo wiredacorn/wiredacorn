@@ -3,6 +3,4 @@
   command = "npm run build"
 
 [dev]
-  framework = "eleventy"
-  publish = "_site"
   command = "npm run build"
